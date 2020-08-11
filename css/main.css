@@ -1,0 +1,99 @@
+body{
+	background-color: #f2f2f2;
+	color: #ccc;
+	font-family: Aerial;
+
+}
+.respo{
+	color: red;
+	text-align: center;
+	font-style: 1.0vw;
+}
+
+.cont{
+	max-width: 1000px;
+	max-height: 200px;
+	margin:0 auto;
+	background-color: white;
+}
+.cont h2{
+	font-size: 10vw;
+}
+
+.one{
+	background-color: teal;
+	min-height: 100px;
+	padding: 20px;
+	font-style: 1.0vw;
+}
+
+.two{
+	background-color: tomato;
+	min-height: 100px;
+	padding: 20px;
+	font-style: 1.0vw;
+
+}
+
+
+.three{
+	background-color: blue;
+	min-height: 100px;
+	padding: 20px;
+	font-style: 1.0vw;
+}
+
+
+
+.four{
+	background-color: hotpink;
+	min-height: 100px;
+	padding: 20px;
+	font-style: 1.0vw;
+}
+
+
+
+.five{
+	background-color:orange;
+	min-height: 100px;
+	padding: 20px;
+	font-style: 1.0vw;
+}
+
+
+
+.six{
+	background-color:maroon;
+	min-height: 100px;
+	padding: 20px;
+	font-style: 1.0vw;
+}
+
+
+.seven{
+	background-color: cyan;
+	min-height: 100px;
+	padding: 20px;
+	font-style: 1.0;
+}
+
+
+
+.eight{
+	background-color:cyan;
+	min-height: 100px;
+	padding: 20px;
+	font-style: 1.0vw;
+}
+.my-panel{
+width:30%;
+float:left;
+padding:2.5%;
+}
+@media screen and(max-width: 60px;){
+.my panel{
+     width: 98%;
+     padding:1%;
+}
+}
